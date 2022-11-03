@@ -1,4 +1,4 @@
-# laiw (locked android image viewer)
+# Laiw (locked android image viewer)
 
 Lock an image on the screen.
 

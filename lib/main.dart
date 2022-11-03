@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'laiw',
-      home: ImageView(title: 'laiw'),
+      title: 'Laiw',
+      home: ImageView(title: 'Laiw'),
     );
   }
 }
